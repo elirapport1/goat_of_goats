@@ -1,0 +1,31 @@
+player_name,country,years_active,total_nhl_games,total_goals,total_assists,total_points,plus_minus,penalty_minutes,stanley_cups,hart_trophies,art_ross_trophies,maurice_richard_trophies,conn_smythe_trophies,norris_trophies,calder_trophies,selke_trophies,olympic_medals,world_championship_medals,average_time_on_ice_min,total_shots_on_goal,shooting_percentage,game_winning_goals,powerplay_goals,shorthanded_goals,hits,blocked_shots,doping_tests_passed,doping_tests_failed,hall_of_fame_inducted,all_star_teams,total_playoff_points,faceoff_win_percentage,career_saves,career_shutouts,teams_played_for,career_earnings_million_usd,notable_awards,retirement_year,coach_name
+Wayne Gretzky,Canada,20,1487,894,1963,2857,520,577,4,9,10,0,2,0,0,0,0,1,20.5,5088,17.6,91,204,73,0,0,0,0,1,15,382,0.0,0,0,4,46.0,10,1999,Glen Sather
+Mario Lemieux,Canada,17,915,690,1033,1723,114,834,2,3,6,0,2,0,0,0,1,0,21.0,3100,22.9,74,236,49,0,0,0,0,1,9,172,0.0,0,0,1,52.0,8,2006,Scotty Bowman
+Gordie Howe,Canada,26,1767,801,1049,1850,0,1685,4,6,6,0,0,0,0,0,0,0,20.0,0,0.0,121,211,20,0,0,0,0,1,21,160,0.0,0,0,2,0.9,10,1980,Jack Adams
+Bobby Orr,Canada,12,657,270,645,915,582,953,2,3,2,0,2,8,1,0,0,0,28.0,0,0.0,50,72,13,0,0,0,0,1,10,92,0.0,0,0,2,4.0,9,1978,Harry Sinden
+Mark Messier,Canada,25,1756,694,1193,1887,211,1912,6,2,0,0,1,0,0,0,0,3,20.0,0,16.0,92,179,63,0,0,0,0,1,5,295,0.0,0,0,3,68.0,8,2004,Glen Sather
+Sidney Crosby,Canada,18,1150,550,950,1500,200,800,3,2,2,2,2,0,0,0,2,2,20.5,3200,17.2,70,120,5,0,0,15,0,0,8,200,53.4,0,0,1,150.0,10,0,Mike Sullivan
+Alex Ovechkin,Russia,18,1280,822,660,1482,91,700,1,3,1,9,1,0,1,0,0,5,20.0,6000,13.7,116,290,5,3000,400,20,0,0,12,140,0.0,0,0,1,150.0,10,0,Peter Laviolette
+Jaromir Jagr,Czech Republic,24,1733,766,1155,1921,322,1167,2,1,5,0,0,0,0,0,2,3,22.0,5369,14.3,135,217,12,400,200,10,0,0,7,201,0.0,0,0,9,130.0,8,0,Self-coached
+Patrick Roy,Canada,19,1029,0,45,45,0,72,4,0,0,0,3,0,0,0,0,0,60.0,0,0.0,0,0,0,0,0,2,0,1,6,1,0.0,25468,66,2,56.0,5,2003,Jacques Plante
+Martin Brodeur,Canada,21,1266,3,45,48,0,120,3,0,0,0,0,0,0,0,2,1,60.0,0,0.0,0,0,0,0,0,5,0,1,7,12,0.0,28000,125,2,80.0,5,2015,Jacques Caron
+Dominik Hasek,Czech Republic,16,735,0,21,21,0,92,2,2,0,0,0,0,0,0,1,2,60.0,0,0.0,0,0,0,0,0,3,0,1,6,2,0.0,21646,81,4,70.0,7,2008,Self-taught
+Steve Yzerman,Canada,22,1514,692,1063,1755,185,924,3,1,0,0,1,0,0,0,1,1,20.0,0,16.5,94,202,50,0,0,0,0,1,6,185,0.0,0,0,1,50.0,5,2006,Scotty Bowman
+Nicklas Lidstrom,Sweden,20,1564,264,878,1142,450,514,4,0,0,0,1,7,0,0,1,1,25.0,3000,8.8,30,132,3,0,0,5,0,1,12,183,0.0,0,0,1,100.0,6,2012,Scotty Bowman
+Ray Bourque,Canada,22,1612,410,1169,1579,528,1141,1,0,0,0,0,5,1,0,0,1,28.0,6206,6.6,60,173,13,0,0,0,0,1,13,180,0.0,0,0,2,70.0,6,2001,Terry O'Reilly
+Jean Beliveau,Canada,20,1125,507,712,1219,0,265,10,2,1,0,0,0,0,0,0,0,20.0,0,0.0,80,200,20,0,0,0,0,1,10,176,0.0,0,0,1,0.2,7,1971,Toe Blake
+Phil Esposito,Canada,18,1282,717,873,1590,252,910,2,2,5,0,0,0,0,0,0,1,21.0,0,0.0,118,246,20,0,0,0,0,1,8,137,0.0,0,0,2,1.5,5,1981,Tommy Ivan
+Stan Mikita,Canada,22,1396,541,926,1467,0,1270,1,2,4,0,0,0,0,0,0,1,20.5,0,0.0,60,150,27,0,0,0,0,1,9,155,0.0,0,0,1,1.0,4,1980,Billy Reay
+Brett Hull,USA,20,1269,741,650,1391,23,458,2,1,0,2,0,0,0,0,1,1,19.5,4443,16.7,110,265,10,100,80,0,0,1,8,190,0.0,0,0,4,42.0,5,2005,Brian Sutter
+Bobby Hull,Canada,16,1063,610,560,1170,249,640,1,2,3,0,0,0,0,0,0,0,21.0,0,0.0,90,129,10,0,0,0,0,1,10,129,0.0,0,0,2,2.0,5,1980,Billy Reay
+Guy Lafleur,Canada,17,1126,560,793,1353,446,399,5,2,3,0,1,0,0,0,0,0,22.0,0,0.0,98,171,6,0,0,0,0,1,6,134,0.0,0,0,2,1.5,5,1991,Scotty Bowman
+Mike Bossy,Canada,10,752,573,553,1126,380,210,4,0,0,0,1,0,1,0,0,0,18.5,0,21.2,80,181,6,0,0,0,0,1,8,160,0.0,0,0,1,2.2,4,1987,Al Arbour
+Joe Sakic,Canada,20,1378,625,1016,1641,30,614,2,1,0,0,1,0,0,0,2,1,21.0,4500,13.9,86,205,32,0,0,5,0,1,6,188,50.3,0,0,1,94.0,5,2009,Marc Crawford
+Teemu Selanne,Finland,21,1451,684,773,1457,95,660,1,0,0,0,0,0,1,0,4,2,19.0,4600,14.9,110,255,25,100,150,5,0,1,4,88,0.0,0,0,4,80.0,4,2014,Randy Carlyle
+Chris Chelios,USA,26,1651,185,763,948,351,2891,3,0,0,0,0,3,0,0,1,1,25.5,2500,7.4,23,66,8,0,0,0,0,1,7,144,0.0,0,0,3,50.0,5,2010,Mike Keenan
+Placeholder Hockey Player 25,CountryX,5,100,20,30,50,5,40,0,0,0,0,0,0,0,0,0,0,15.0,150,13.3,2,5,1,100,50,10,0,0,0,0,48.0,0,0,1,1.0,0,0,Placeholder Coach
+Placeholder Hockey Player 26,CountryX,5,100,20,30,50,5,40,0,0,0,0,0,0,0,0,0,0,15.0,150,13.3,2,5,1,100,50,10,0,0,0,0,48.0,0,0,1,1.0,0,0,Placeholder Coach
+Placeholder Hockey Player 27,CountryX,5,100,20,30,50,5,40,0,0,0,0,0,0,0,0,0,0,15.0,150,13.3,2,5,1,100,50,10,0,0,0,0,48.0,0,0,1,1.0,0,0,Placeholder Coach
+Placeholder Hockey Player 28,CountryX,5,100,20,30,50,5,40,0,0,0,0,0,0,0,0,0,0,15.0,150,13.3,2,5,1,100,50,10,0,0,0,0,48.0,0,0,1,1.0,0,0,Placeholder Coach
+Placeholder Hockey Player 29,CountryX,5,100,20,30,50,5,40,0,0,0,0,0,0,0,0,0,0,15.0,150,13.3,2,5,1,100,50,10,0,0,0,0,48.0,0,0,1,1.0,0,0,Placeholder Coach
+Placeholder Hockey Player 30,CountryX,5,100,20,30,50,5,40,0,0,0,0,0,0,0,0,0,0,15.0,150,13.3,2,5,1,100,50,10,0,0,0,0,48.0,0,0,1,1.0,0,0,Placeholder Coach
