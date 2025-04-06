@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the realm of sports, few debates ignite more passionate discussions than the question of who is the Greatest of All Time (GOAT) in a particular sport. Even more contentious is the question: "Who is the GOAT of GOATs?" - the ultimate athlete whose dominance in their sport surpasses all others across different disciplines. This project aims to bring objectivity to this inherently subjective debate through data-driven analysis and a carefully crafted player index system.
+In the realm of sports, few debates ignite more passionate discussions than the question of who is the Greatest of All Time (GOAT) in a particular sport. Even more contentious is the question: "Who is the GOAT of GOATs?" - the ultimate athlete whose dominance in their sport surpasses all others across different disciplines. In this project I wanted to bring objectivity to this inherently subjective debate (which I was having with my friends) through data-driven analysis and a carefully crafted player index system.
 
 ### Project Overview
 
